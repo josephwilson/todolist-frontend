@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 export default function Navigation() {
     return <nav>
-        <h1>Menu</h1>
+        <h1>Best Menu Ever, Please Buy Some Stuff so I can get promoted</h1>
         <ul>
             <li>
                 <Link to="/home">Home</Link>
